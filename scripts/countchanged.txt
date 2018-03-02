@@ -1,0 +1,27 @@
+(Output of counthope.py)
+node : all_traceroute_planetlab-n1.wand.net.nz
+node : all_traceroute_planetlab02.cs.washington.edu
+hope changed in: all_traceroute_planetlab02.cs.washington.edu
+from count: 13  to count: 12
+node : all_traceroute_planetlab04.cs.washington.edu
+hope changed in: all_traceroute_planetlab04.cs.washington.edu
+from count: 22  to count: 21
+node : all_traceroute_planetlab1.cs.ubc.ca
+hope changed in: all_traceroute_planetlab1.cs.ubc.ca
+from count: 11  to count: 10
+node : all_traceroute_planetlab1.cs.uoregon.edu
+node : all_traceroute_planetlab1.pop-mg.rnp.br
+hope changed in: all_traceroute_planetlab1.pop-mg.rnp.br
+from count: 8  to count: 9
+node : all_traceroute_planetlab1.unr.edu
+hope changed in: all_traceroute_planetlab1.unr.edu
+from count: 11  to count: 10
+node : all_traceroute_planetlab2.inf.ethz.ch
+hope changed in: all_traceroute_planetlab2.inf.ethz.ch
+from count: 20  to count: 19
+node : all_traceroute_planetlab3.rutgers.edu
+hope changed in: all_traceroute_planetlab3.rutgers.edu
+from count: 14  to count: 15
+node : all_traceroute_planetlab4.cs.uoregon.edu
+hope changed in: all_traceroute_planetlab4.cs.uoregon.edu
+from count: 11  to count: 10
